@@ -44,6 +44,8 @@ Hello I'm Piero Rafael Becerra Chang and I want to talk to you a little bit abou
 ## Projects where I worked and provided services (GitHub)
 
 * ERP System Project SpringBoot : [Comercial ERP](https://github.com/PieroRafael/Comercial)
+* System Blog Back - NodeJS and React [Bloggio](https://github.com/TrustCodeCompany/bloggioback)
+* System Blog Front - NodeJS and React [Bloggio](https://github.com/TrustCodeCompany/bloggioFront)
 
 ### What about drawing in CSS? 😎
 
