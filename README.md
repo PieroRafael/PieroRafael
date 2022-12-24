@@ -37,7 +37,11 @@ Hello I'm Piero Rafael Becerra Chang and I want to talk to you a little bit abou
 🎸 Musician, 🛫 Backpacker ...  
  
 
-## My projects on GitHub
+## My Personal Projects on GitHub
+
+* SpringBoot Project : [Airline Management](https://github.com/PieroRafael/Aerolinea)
+
+## Projects where I worked and provided services (GitHub)
 
 * SpringBoot Project : [Airline Management](https://github.com/PieroRafael/Aerolinea)
 
