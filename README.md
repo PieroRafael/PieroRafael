@@ -60,7 +60,7 @@ Hello I'm Piero Rafael Becerra Chang and I want to talk to you a little bit abou
 
 `<💼 LinkedIn>` : <https://www.linkedin.com/in/piero-rafael-becerra-chang-1602a9258/>
 
-`<🎈 Twitter>` : <https://twitter.com/Piero00490715>
+`<🎈 Twitter>` : <https://twitter.com/becerra_pi29975>
 
 <!--
 **andresbadillo/andresbadillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
