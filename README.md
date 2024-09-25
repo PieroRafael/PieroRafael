@@ -40,12 +40,15 @@ Hello I'm Piero Rafael Becerra Chang and I want to talk to you a little bit abou
 ## My Personal Projects on GitHub
 
 * SpringBoot Project : [Airline Management](https://github.com/PieroRafael/Aerolinea)
+* Hexagonal Architecture : [Simple Example of Hexagonal Architecture](https://github.com/PieroRafael/HexagonalArchitecture)
+* Feign Client : [Simple Example of use Librarie Feign Client](https://github.com/PieroRafael/feign-client-ms)
 
 ## Projects where I worked and provided services (GitHub)
 
-* ERP System Project SpringBoot : [Comercial ERP](https://github.com/PieroRafael/Comercial)
-* System Blog Back - NodeJS and React [Bloggio](https://github.com/TrustCodeCompany/bloggioback)
-* System Blog Front - NodeJS and React [Bloggio](https://github.com/TrustCodeCompany/bloggioFront)
+* ERP System Project - Java and SpringBoot : [Comercial ERP](https://github.com/PieroRafael/Comercial)
+* System Blog Back - NodeJS and React : [Bloggio](https://github.com/TrustCodeCompany/bloggioback)
+* System Blog Front - NodeJS and React : [Bloggio](https://github.com/TrustCodeCompany/bloggioFront)
+* Bloggio Back - Java and SpringBoot : [New Bloggio](https://github.com/TrustCodeCompany/bloggioApi)
 
 ### What about drawing in CSS? 😎
 
