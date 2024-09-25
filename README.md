@@ -58,7 +58,7 @@ Hello I'm Piero Rafael Becerra Chang and I want to talk to you a little bit abou
 
 `<🌎 Website>` : In Progress !!! 
 
-`<💼 LinkedIn>` : <https://www.linkedin.com/in/piero-rafael-becerra-chang-1602a9258/>
+`<💼 LinkedIn>` : <https://www.linkedin.com/in/pierobecerra/>
 
 `<🎈 Twitter>` : <https://twitter.com/becerra_pi29975>
 
